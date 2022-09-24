@@ -1,0 +1,28 @@
+body{
+    font-family: system-ui;
+    background-color: rgba(221, 221, 221, 0.5);
+    color: rgba(255, 15, 192, 1);
+    text-align: center;
+}
+
+button{
+    border: none;
+    padding: 10px 0px 10px 0px;
+    color: white;
+    font-family: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+#incrementa-botao{
+    background-color: darkgreen;
+}
+
+#decrementa-botao{
+    background-color: crimson;
+}
+
+#armazena-botao{
+    background-color: deepskyblue;
+}
